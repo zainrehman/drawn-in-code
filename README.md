@@ -33,3 +33,7 @@ Each script renders a 1080×1920, 30 fps MP4 next to itself. A render takes a fe
 > **Windows/macOS:** the font paths in `common.py` point to the Linux DejaVu location. Change the `MONO`/`SERIF` paths at the top to wherever DejaVu is installed on your machine.
 
 New Shorts are added as they're released. Subscribe to the channel to see them first.
+
+## License
+
+The code is [MIT licensed](LICENSE): remix it, learn from it, make your own. A link back to the channel is appreciated.
